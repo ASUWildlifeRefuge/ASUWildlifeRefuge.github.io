@@ -1,0 +1,108 @@
+body {
+    /* background-image:url("../willapa-wildlife-refuge-hiking.jpg"); */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* Dropdown Button */
+.dropbtn {
+    background-color: #303030;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+}
+
+/* Links inside the dropdown */
+.dropdown-content button {
+    color: black;
+    background-color: #ebebeb;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content {background: transparent}
+
+button:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {background-color: rgb(156, 134, 255);}
+
+
+.navigation {
+    background-color: rgba(192,192,192,0.5);
+    text-align: center;
+}
+
+.ui-img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#back {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    height: 50px;
+    width: 50px;
+    padding: 1%;
+    z-index: +1;
+    border: 0;
+    background: transparent;
+}
+
+#forward {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    height: 50px;
+    width: 50px;
+    padding: 1%;
+    z-index: +1;
+    border: 0;
+    background: transparent;
+}
+
+#reset {
+    position: absolute;
+    bottom: 8px;
+    left: 120px;
+    height: 50px;
+    width: 50px;
+    padding: 1%;
+    z-index: +1;
+    border: 0;
+    background: transparent;
+
+}
+#help {
+    filter: invert(100%);
+    position: absolute;
+    top: 0px;
+    right: 10px;
+    height: 45px;
+    width: 45px;
+    z-index: +1;
+    padding: 1%;
+    border: 0;
+    background: transparent;
+}
