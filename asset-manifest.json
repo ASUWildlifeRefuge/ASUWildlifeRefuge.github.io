@@ -1,15 +1,15 @@
 {
-  "main.css": "/Wildlife/static/css/main.163af69c.chunk.css",
-  "main.js": "/Wildlife/static/js/main.ffc023c6.chunk.js",
-  "main.js.map": "/Wildlife/static/js/main.ffc023c6.chunk.js.map",
-  "static/css/1.78d71070.chunk.css": "/Wildlife/static/css/1.78d71070.chunk.css",
-  "static/js/1.ed46d5ff.chunk.js": "/Wildlife/static/js/1.ed46d5ff.chunk.js",
-  "static/js/1.ed46d5ff.chunk.js.map": "/Wildlife/static/js/1.ed46d5ff.chunk.js.map",
-  "runtime~main.js": "/Wildlife/static/js/runtime~main.e43c91b1.js",
-  "runtime~main.js.map": "/Wildlife/static/js/runtime~main.e43c91b1.js.map",
-  "static/css/1.78d71070.chunk.css.map": "/Wildlife/static/css/1.78d71070.chunk.css.map",
-  "static/css/main.163af69c.chunk.css.map": "/Wildlife/static/css/main.163af69c.chunk.css.map",
-  "index.html": "/Wildlife/index.html",
-  "precache-manifest.0d79715c8b89066cfaaa59ebf3ee771a.js": "/Wildlife/precache-manifest.0d79715c8b89066cfaaa59ebf3ee771a.js",
-  "service-worker.js": "/Wildlife/service-worker.js"
+  "main.css": "/my-app/static/css/main.163af69c.chunk.css",
+  "main.js": "/my-app/static/js/main.5dd44ce0.chunk.js",
+  "main.js.map": "/my-app/static/js/main.5dd44ce0.chunk.js.map",
+  "static/css/1.78d71070.chunk.css": "/my-app/static/css/1.78d71070.chunk.css",
+  "static/js/1.825efe7f.chunk.js": "/my-app/static/js/1.825efe7f.chunk.js",
+  "static/js/1.825efe7f.chunk.js.map": "/my-app/static/js/1.825efe7f.chunk.js.map",
+  "runtime~main.js": "/my-app/static/js/runtime~main.a3bd857c.js",
+  "runtime~main.js.map": "/my-app/static/js/runtime~main.a3bd857c.js.map",
+  "static/css/1.78d71070.chunk.css.map": "/my-app/static/css/1.78d71070.chunk.css.map",
+  "static/css/main.163af69c.chunk.css.map": "/my-app/static/css/main.163af69c.chunk.css.map",
+  "index.html": "/my-app/index.html",
+  "precache-manifest.deb22ecec40f40035137a682ae775063.js": "/my-app/precache-manifest.deb22ecec40f40035137a682ae775063.js",
+  "service-worker.js": "/my-app/service-worker.js"
 }
